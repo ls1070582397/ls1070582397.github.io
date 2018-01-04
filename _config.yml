@@ -3,9 +3,9 @@ title: Lus Blog
 SEOTitle: 逯帅的博客 | Lus Blog
 header-img: img/home-bg.jpg
 email: lushuai820@gmail.com
-description: "致力于做一名富有的工程师"
+description: "be rich"
 keyword: "jianshu,ios,mac,movie,fun"
-url: "https://lssmpro.com"              # your host, for absolute URL
+url: "lssmpro.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 timezone: CN
 
@@ -49,7 +49,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+##disqus_username: hux
 
 # Netease setttings
 netease_comment: false
@@ -62,7 +62,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: lssmpro.com
 
 
 
