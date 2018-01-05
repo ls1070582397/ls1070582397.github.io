@@ -14,7 +14,7 @@ timezone: CN
 # SNS settings
 RSS: false
 #weibo_username:     u_are_the_truth_im_in
-zhihu_username:     people/shuailu/activities
+zhihu_username:     shuailu
 github_username:    ls1070582397
 twitter_username:   Young_blooddddd
 #facebook_username:  huxpro
@@ -49,7 +49,7 @@ kramdown:
 
 
 # Disqus settings
-##disqus_username: hux
+##disqus_username: lus
 
 # Netease setttings
 netease_comment: false
